@@ -9,6 +9,7 @@ DesignExtensions[]=sevenx-themes-simple
 #CSSFileList[]=yui/build/calendar/assets/calendar.css
 #CSSFileList[]=site-colors.css
 #CSSFileList[]=project.css
+CSSFileList[]=websitetoolbar.css
 CSSFileList[]=libs/fontawesome/css/all.min.css
 #CSSFileList[]=libs/splide/css/splide.min.css
 CSSFileList[]=main.css
