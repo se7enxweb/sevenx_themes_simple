@@ -13,7 +13,7 @@ class sevenx_themes_simpleInfo
     public static function info()
     {
         return array( 'Name' => "<a href='https://github.com/se7enxweb/sevenx_themes_simple'>7x Themes : Simple</a>",
-                      'Version' => "1.0.1",
+                      'Version' => "1.0.2",
                       'Copyright' => "Copyright (C) 1999 - 2024 <a href='https://se7enx.com' title='7x'>Brookins Consulting</a>",
                       'License' => "GNU General Public License v2.0 (or later)",
                       'info_url' => "https://github.com/se7enxweb/sevenx_themes_simple"
