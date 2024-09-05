@@ -1,7 +1,7 @@
 <?php /* #?ini charset="iso-8859-1"?
 
 [ExtensionSettings]
-DesignExtensions[]=sevenx-themes-simple
+DesignExtensions[]=sevenx_themes_simple
 
 [StylesheetSettings]
 #SiteCSS=var/storage/packages/eZ-systems/ezwebin_design_gray/files/default/file/site-colors.css
