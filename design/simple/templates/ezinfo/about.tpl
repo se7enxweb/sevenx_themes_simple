@@ -53,8 +53,13 @@
 </div>
 
 <p>
-    Copyright &copy; 1999-2014 <a href="http://ez.no/">eZ Systems AS</a>, with portions copyright by other parties. A complete list of all contributors and third-party
-    software follows.
+    Copyright &copy; 1999-2024 <a href="https://se7enx.com">7x</a>, with portions copyright by other parties.
+</p>
+<p>
+    Copyright &copy; 1999-2014 <a href="http://ez.no/">eZ Systems AS</a>, with portions copyright by other parties. 
+</p>
+<p>
+    A complete list of all contributors and third-party software follows.
 </p>
 
 {if and( is_set( $third_party_software ), is_array( $third_party_software ), count( $third_party_software )|ge( 1 ) )}
