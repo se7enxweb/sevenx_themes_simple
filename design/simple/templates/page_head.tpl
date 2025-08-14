@@ -79,7 +79,7 @@
 <meta name="{$meta:key|wash}" content="{$meta:item|wash}" />
     {/section}
 <meta name="MSSmartTagsPreventParsing" content="TRUE" />
-    <meta name="generator" content="eZ Publish" />
+    <meta name="generator" content="Exponential" />
 
 {section show=$enable_link}{include uri="design:link.tpl" enable_help=$enable_help enable_link=$enable_link}{/section}
 {/default}
