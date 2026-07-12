@@ -1111,7 +1111,7 @@ div.content-view-full div.class-frontpage div.columns-frontpage {
 
 body.floating-wt div#ezwt {
   position: relative;
-  z-index: 9999;
+  z-index: auto;
   top: -6.6rem;
   left: 0px;
   -moz-box-shadow: 0px 5px 5px rgba(0, 0, 0, 0.5);
