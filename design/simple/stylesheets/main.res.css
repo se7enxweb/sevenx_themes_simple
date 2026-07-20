@@ -277,8 +277,9 @@
 
   i.fa-solid.fa-cart-shopping {
     position: relative;
-    right: 22.999rem;
+    /* right: 22.999rem; */
     top: -2.2rem;
+    display: none;
   }
   /*========== header: END ==========*/
 
@@ -311,6 +312,7 @@
   .class-article {
     gap: 0 2rem;
   }
+
   /*========== existing styles: END ==========*/
 
   /*========== header: START ==========*/
@@ -330,5 +332,11 @@
   /*========== common styles: END ==========*/
 
   /*========== existing styles: Start ==========*/
+  i.fa-solid.fa-cart-shopping {
+    position: relative;
+    /* right: 22.999rem; */
+    top: -2.2rem;
+    display: block;
+  }
   /*========== existing styles: END ==========*/
 }
