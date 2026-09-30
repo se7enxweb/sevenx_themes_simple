@@ -204,6 +204,14 @@
         <source>Total</source>
         <translation>Total</translation>
     </message>
+    <message>
+        <source>Summary</source>
+        <translation>Summary</translation>
+    </message>
+    <message>
+        <source>Total ex. VAT</source>
+        <translation>Total ex. VAT</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/shop/orderview</name>
@@ -229,6 +237,43 @@
     <message>
         <source>City</source>
         <translation>City</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/view/ezmedia</name>
+    <message>
+        <source>Get Microsoft Silverlight</source>
+        <translation>Get Microsoft Silverlight</translation>
+    </message>
+</context>
+<context>
+    <name>extension/ezstarrating/datatype</name>
+    <message>
+        <source>disabled</source>
+        <translation>disabled</translation>
+    </message>
+    <message>
+        <source>Your rating has been changed, thanks for rating!</source>
+        <translation>Your rating has been changed, thanks for rating!</translation>
+    </message>
+    <message>
+        <source>You don't have access to rate this page.</source>
+        <translation>You don't have access to rate this page.</translation>
+    </message>
+    <message>
+        <source>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to rate this page.</source>
+        <translation>%login_link_startLog in%login_link_end or %create_link_startcreate a user account%create_link_end to rate this page.</translation>
+    </message>
+    <message>
+        <source>%login_link_startLog in%login_link_end to rate this page.</source>
+        <translation>%login_link_startLog in%login_link_end to rate this page.</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/blog_post</name>
+    <message>
+        <source>Tags:</source>
+        <translation>Tags:</translation>
     </message>
 </context>
 </TS>

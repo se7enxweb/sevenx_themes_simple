@@ -36,6 +36,14 @@
         <source>Total</source>
         <translation>Gesamt</translation>
     </message>
+    <message>
+        <source>Summary</source>
+        <translation>Zusammenfassung</translation>
+    </message>
+    <message>
+        <source>Total ex. VAT</source>
+        <translation>Gesamt exkl. USt</translation>
+    </message>
 </context>
 <context>
     <name>design/ezwebin/shop/userregister</name>
@@ -260,6 +268,13 @@
     <message>
         <source>City</source>
         <translation>Ort</translation>
+    </message>
+</context>
+<context>
+    <name>design/ezwebin/line/blog_post</name>
+    <message>
+        <source>Tags:</source>
+        <translation>Tags:</translation>
     </message>
 </context>
 </TS>
