@@ -17,7 +17,7 @@
     </message>
     <message>
         <source>Tip a friend</source>
-        <translation>Poleć znajomemu</translation>
+        <translation>Polecić znajomemu</translation>
     </message>
 </context>
 <context>
@@ -46,18 +46,18 @@
     <name>design/ezwebin/full/feedback_form</name>
     <message>
         <source>Send form</source>
-        <translation>Wyślij formularz</translation>
+        <translation>Wysłać formularz</translation>
     </message>
 </context>
 <context>
     <name>design/base</name>
     <message>
         <source>View as slideshow</source>
-        <translation>Wyświetl jako pokaz slajdów</translation>
+        <translation>Wyświetlić jako pokaz slajdów</translation>
     </message>
     <message>
         <source>View list</source>
-        <translation>Wyświetl listę</translation>
+        <translation>Wyświetlić listę</translation>
     </message>
 </context>
 <context>
@@ -72,7 +72,7 @@
     </message>
     <message>
         <source>Download Larger Image</source>
-        <translation>Pobierz większy obraz</translation>
+        <translation>Pobrać większy obraz</translation>
     </message>
 </context>
 <context>
@@ -83,11 +83,11 @@
     </message>
     <message>
         <source>View comments</source>
-        <translation>Pokaż komentarze</translation>
+        <translation>Pokazać komentarze</translation>
     </message>
     <message>
         <source>Add comment</source>
-        <translation>Dodaj komentarz</translation>
+        <translation>Dodać komentarz</translation>
     </message>
 </context>
 <context>
@@ -106,7 +106,7 @@
     </message>
     <message>
         <source>Return to site</source>
-        <translation>Wróć do witryny</translation>
+        <translation>Wrócić do witryny</translation>
     </message>
 </context>
 <context>
@@ -148,7 +148,7 @@
     </message>
     <message>
         <source>Search %sitetitle</source>
-        <translation>Wyszukaj w %sitetitle</translation>
+        <translation>Wyszukać w %sitetitle</translation>
     </message>
     <message>
         <source>Printable version</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>Confirm order</source>
-        <translation>Potwierdź zamówienie</translation>
+        <translation>Potwierdzić zamówienie</translation>
     </message>
     <message>
         <source>Product items</source>
@@ -245,11 +245,11 @@
     </message>
     <message>
         <source>Confirm</source>
-        <translation>Potwierdź</translation>
+        <translation>Potwierdzić</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Anulować</translation>
     </message>
 </context>
 <context>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Confirm order</source>
-        <translation>Potwierdź zamówienie</translation>
+        <translation>Potwierdzić zamówienie</translation>
     </message>
     <message>
         <source>Your account information</source>
@@ -320,11 +320,11 @@
     </message>
     <message>
         <source>Continue</source>
-        <translation>Kontynuuj</translation>
+        <translation>Kontynuować</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation>Anuluj</translation>
+        <translation>Anulować</translation>
     </message>
     <message>
         <source>All fields marked with * must be filled in.</source>
@@ -368,7 +368,7 @@
     </message>
     <message>
         <source>Remember me</source>
-        <translation>Zapamiętaj mnie</translation>
+        <translation>Zapamiętać mnie</translation>
     </message>
     <message>
         <source>Login</source>
@@ -378,7 +378,7 @@
     <message>
         <source>Sign up</source>
         <comment>Button</comment>
-        <translation>Zarejestruj się</translation>
+        <translation>Zarejestrować się</translation>
     </message>
     <message>
         <source>Forgot your password?</source>
@@ -412,11 +412,11 @@
     </message>
     <message>
         <source>Add to basket</source>
-        <translation>Dodaj do koszyka</translation>
+        <translation>Dodać do koszyka</translation>
     </message>
     <message>
         <source>Add to wish list</source>
-        <translation>Dodaj do listy życzeń</translation>
+        <translation>Dodać do listy życzeń</translation>
     </message>
     <message>
         <source>People who bought this also bought</source>
@@ -434,7 +434,7 @@
     <name>design/ezwebin/view/ezmedia</name>
     <message>
         <source>Get Microsoft Silverlight</source>
-        <translation>Pobierz Microsoft Silverlight</translation>
+        <translation>Pobrać Microsoft Silverlight</translation>
     </message>
     <message>
         <source>No %link_startFlash player%link_end avaliable!</source>
@@ -515,7 +515,7 @@
     </message>
     <message>
         <source>Add a product from our store&apos;s selection of products</source>
-        <translation>Dodaj produkt z oferty naszego sklepu</translation>
+        <translation>Dodać produkt z oferty naszego sklepu</translation>
     </message>
     <message>
         <source>Shopping cart</source>
@@ -527,7 +527,7 @@
     </message>
     <message>
         <source>Confirm order</source>
-        <translation>Potwierdź zamówienie</translation>
+        <translation>Potwierdzić zamówienie</translation>
     </message>
     <message>
         <source>Payment</source>
@@ -595,11 +595,11 @@
     </message>
     <message>
         <source>Update</source>
-        <translation>Zaktualizuj</translation>
+        <translation>Zaktualizować</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation>Usuń</translation>
+        <translation>Usunąć</translation>
     </message>
     <message>
         <source>Selected options</source>
@@ -627,7 +627,7 @@
     </message>
     <message>
         <source>Continue shopping</source>
-        <translation>Kontynuuj zakupy</translation>
+        <translation>Kontynuować zakupy</translation>
     </message>
     <message>
         <source>You have no products in your cart.</source>
@@ -713,7 +713,7 @@
     </message>
     <message>
         <source>Rate %rating stars out of 5</source>
-        <translation>Oceń na %rating z 5 gwiazdek</translation>
+        <translation>Ocenić na %rating z 5 gwiazdek</translation>
     </message>
     <message>
         <source>Rating: %current_rating/5</source>
