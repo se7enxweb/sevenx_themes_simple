@@ -71,6 +71,10 @@
 
 </form>
 
+{* "Sign in with a passkey" ([PasskeySettings] of site.ini), as a form of its own below the sign-in form, where the
+   kernel has passkeys; it draws nothing when the view offers none *}
+{if ezmodule( 'user/passkeys' )}{include uri='design:user/parts/passkey_login.tpl'}{/if}
+
 </div>
 
 </div></div></div>
